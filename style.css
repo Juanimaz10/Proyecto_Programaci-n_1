@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+   color: chartreuse ;
+}
+body{
+    background-image: url(/imagenes/fondo.jpg);
+    background-repeat: center;
+}
+.container{
+    position:static;
+    display: block;
+    text-align: center;
+}
+h2 {
+    color: aliceblue;
+}
+
+p{
+    color:bisque
+}
+a{
+    color: rgb(226, 110, 43);
+}

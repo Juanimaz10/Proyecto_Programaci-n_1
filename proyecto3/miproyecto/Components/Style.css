@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+   color: chartreuse ;
+}
+
+body{
+    background-image: '.public/imagenes/estacionamiento.jpg';
+    background-position: center;
+}
